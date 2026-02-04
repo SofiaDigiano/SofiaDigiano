@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img width="1584" height="396" alt="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/cf045df3-7e52-4e8b-b4ce-4d89acba434e" />
+  <img width="1584" height="396" alt="Digiano Sofia Banner" src="https://github.com/user-attachments/assets/49de8454-e8f5-4215-a305-458e42c1a0ae" />
 </div>
 
 ###
