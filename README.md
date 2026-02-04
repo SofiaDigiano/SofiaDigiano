@@ -20,7 +20,9 @@
 
 ###
 
-[<img src="https://raw.githubusercontent.com/SofiaDigiano/SofiaDigiano/output/snake.svg" alt="Snake animation" />](https://github.com/SofiaDigiano/Snake/blob/main/github-user-contribution.svg)
+<p align = "center">
+  <img src="https://raw.githubusercontent.com/SofiaDigiano/SofiaDigiano/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
