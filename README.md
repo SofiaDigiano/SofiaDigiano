@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">👾 Hi I´m Sofi 👾</h1>
+<h1 align="center">👾 Hola soy Sofi 👾</h1>
 
 ###
 
